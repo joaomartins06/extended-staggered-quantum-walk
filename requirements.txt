@@ -2,5 +2,10 @@ numpy
 scipy
 networkx
 matplotlib
+quimb
 qiskit
-qiskit-aer
+pylatexenc
+pandas
+nbformat
+nbconvert
+ipykernel
